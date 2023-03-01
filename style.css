@@ -1,0 +1,7 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+.image-circular{
+    transform: rotate(70%);
+}
